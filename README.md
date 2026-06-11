@@ -31,5 +31,8 @@ En este repositorio, se presenta el sitio web realizado durante el curso de prog
 
 Ahora si, ¡A programar! 🚀
 
+<img width="1024" height="844" alt="image" src="https://github.com/user-attachments/assets/1425f90a-22de-490f-97c4-ece5dd78457b" />
+
+
 
 [^1]: Los Objetivos de Desarrollo Sostenible u Objetivos Globales, también conocidos como Agenda 2030, son 17 objetivos globales interconectados diseñados para ser un «plan para lograr un futuro mejor y más sostenible para todos». Más información en https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
